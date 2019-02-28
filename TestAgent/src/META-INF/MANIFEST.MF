@@ -1,0 +1,4 @@
+Mainfest-Version: 1.0
+Premain-Class: com.merlin.test.agent.AgentTest
+Agent-Class: com.merlin.test.agent.AgentTest
+Can-Redefine-Classes: true
